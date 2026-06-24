@@ -49,6 +49,7 @@
 
 ## Productivity
 
+- [Remio](https://remio.ai) - Local-first AI memory and personal knowledge base for retrieving focused context from files, webpages, recordings, emails, messages, images, and notes
 - [Otter.ai](https://otter.ai) - AI meeting transcription
 - [Fireflies](https://fireflies.ai) - Meeting notes AI
 - [Reclaim](https://reclaim.ai) - AI calendar assistant
