@@ -13,6 +13,7 @@
 - [Learning Resources](#learning-resources)
 
 ## AI Assistants
+- [AI Group Call](https://aigroupcall.app) - An AI council you can talk to: a group voice call where agents riff with each other, answer when named, and yield when you speak.
 
 - [ChatGPT](https://chat.openai.com) - OpenAI's conversational AI
 - [Claude](https://claude.ai) - Anthropic's helpful AI assistant
