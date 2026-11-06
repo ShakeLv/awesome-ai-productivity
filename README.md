@@ -49,11 +49,12 @@
 
 ## Productivity
 
-- [Otter.ai](https://otter.ai) - AI meeting transcription
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research workspace that seeks disconfirming evidence before conviction
 - [Fireflies](https://fireflies.ai) - Meeting notes AI
-- [Reclaim](https://reclaim.ai) - AI calendar assistant
-- [Motion](https://usemotion.com) - AI project manager
 - [Magical](https://getmagical.com) - AI text expander
+- [Motion](https://usemotion.com) - AI project manager
+- [Otter.ai](https://otter.ai) - AI meeting transcription
+- [Reclaim](https://reclaim.ai) - AI calendar assistant
 
 ## Prompts
 
