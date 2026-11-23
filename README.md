@@ -48,6 +48,7 @@
 - [Runway](https://runwayml.com) - AI video editing
 
 ## Productivity
+- [ChatSequel](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) - Free Chrome extension for timed continuation of ChatGPT replies, per-tab controls, countdown, and context handoff for long chats.
 
 - [Otter.ai](https://otter.ai) - AI meeting transcription
 - [Fireflies](https://fireflies.ai) - Meeting notes AI
